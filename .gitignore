@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+######### Dataset
+# json files
+json_files/farsnews.json
+json_files/yjc.json
